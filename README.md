@@ -1,5 +1,5 @@
 # knowledge
 
 <p align="center">
-  ![exploding brain](https://i.imgur.com/JimWRqR.png "brain genius")
+  <img src="https://i.imgur.com/JimWRqR.png" alt="exploding brain" title="brain genius"/>
 </p>
