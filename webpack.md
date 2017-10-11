@@ -1,4 +1,4 @@
-# Webpack Knowledge
+# Webpack Notes
 
 ## Bundling an NPM package w/ webpack for publish & inclusion in another project that is also bundled with webpack
 
