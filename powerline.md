@@ -2,9 +2,10 @@
 
 ## Symbols look like `[?]`
 
-Usually this hust means there's something wrong with the font.
-Sometimes this happens after iTerm beta updates.
+Something weird happened -- sometimes this occurs after iTerm update.
+Use the `reset-powerline.sh` script found in `dotfiles/powerline/`.
 
-First, try to change the iTerm settings to a different powerline-compatable font.
+If that doesn't work, try to change the iTerm settings to a different powerline-compatable
+font. If this fixes the symbols, remove and reinstall the font files from the powerline/fonts
+repo.
 
-If that fixes the symbols, remove and reinstall the font files from the powerline/fonts repo.
